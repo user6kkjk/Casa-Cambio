@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\bin\Debug\net7.0\CasaCambio.exe
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\bin\Debug\net7.0\CasaCambio.deps.json
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\bin\Debug\net7.0\CasaCambio.runtimeconfig.json
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\bin\Debug\net7.0\CasaCambio.dll
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\bin\Debug\net7.0\CasaCambio.pdb
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.dll
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\refint\CasaCambio.dll
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.pdb
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\CasaCambio.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Casa-Cambio\CasaCambio\obj\Debug\net7.0\ref\CasaCambio.dll
